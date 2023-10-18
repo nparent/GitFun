@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Nia2
 
 Nicolas0
+=======
+Nia1
+
+Master0
+>>>>>>> b8c3c06 (M1)
